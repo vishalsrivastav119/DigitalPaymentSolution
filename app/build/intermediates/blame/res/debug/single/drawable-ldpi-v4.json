@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\payment_successful.jpg",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-ldpi\\payment_successful.jpg"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\transaction_history_icon.jpg",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-ldpi\\transaction_history_icon.jpg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\visa_paywave_1.jpg",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\visa_paywave_1.jpg"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\psd_credit_card.jpg",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\psd_credit_card.jpg"
+    }
+]

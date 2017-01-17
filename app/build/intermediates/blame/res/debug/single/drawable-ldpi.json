@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\app_launcher.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-ldpi\\app_launcher.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bikelogo.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-ldpi\\bikelogo.png"
+    }
+]

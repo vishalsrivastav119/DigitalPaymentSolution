@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dpouch.Welcome" >
+
+    <ImageView android:id="@+id/welcome_img"
+        android:layout_height="200dp"
+        android:layout_width="300dp" 
+        android:src="@drawable/psd_credit_card"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"/>
+    <TextView android:id="@+id/welcome_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_txt" 
+        android:textColor="@android:color/black"
+        android:textStyle="normal|bold"
+        android:textSize="25sp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/welcome_img"/>
+    <TextView android:id="@+id/welcome_subtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textStyle="normal"
+        android:textSize="13sp"
+        android:text="@string/welcome_sub_txt"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@id/welcome_text"/>
+    <Button android:id="@+id/welcome_register"
+        android:text="Register Here"
+        android:layout_height="wrap_content"
+        android:layout_width="305dp"
+        android:textSize="20sp"
+        android:layout_below="@id/welcome_subtext"
+        android:background="@android:color/holo_orange_light"
+        android:layout_marginTop="18dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+</RelativeLayout>

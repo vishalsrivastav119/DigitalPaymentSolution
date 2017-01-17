@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_748e863c31d06e95f994d844857dd489550968fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_f1569f2e1d5ae44ea2e9120be5d50a242f117f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_cce7a10467175fbcc5cef41d23db42d4a01c6e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_9b065fad35a53dcfdfb6abdb1dc85ca92c67b170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_c01bc630ec102b746c1544856f9190df5a468771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_a8146f978b44976a9bf0ff855076b6d051219779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_cdc5d2891740656a0043fbf7596d8e2df8e79a10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2780459dbea63907a7ad608993d3a29076069c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_299883f2d07840774a158d7e4c33bbf5682cfb35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_078f6496e20b57e303a1e0b86cc12fbf972ed23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_61cb5ed2e656a77fc7a0850279343fbbe2a7642b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9e0ba525da1021f567e30faf1e6e6171e52aa178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ab75a8a1c6e988f161deb300ce8316265c8d4822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_ae800b4e5e7494a6173aa5b7b27755e6cdc60776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b31c3c8212e9617be40d8a61f8b958bb98d4f7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_dd583c0de6874fa95e1d6aa45a86bfda9eac5b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8d50c9bf9947e938716ba2f54b53aba891cdd873">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fa5a916314e8173c36271915a00df48891be74b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_55d4bc11aaf905fe2c40912245bd4028b9a963bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_a8146f978b44976a9bf0ff855076b6d051219779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_748e863c31d06e95f994d844857dd489550968fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_c01bc630ec102b746c1544856f9190df5a468771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_cdc5d2891740656a0043fbf7596d8e2df8e79a10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d81623860875166de50015f9c15637b22f927b54">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\instant-run_c9aa25e97b370a6fa4718e6d24a1c163eb831338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_cce7a10467175fbcc5cef41d23db42d4a01c6e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_078f6496e20b57e303a1e0b86cc12fbf972ed23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_61cb5ed2e656a77fc7a0850279343fbbe2a7642b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_f1569f2e1d5ae44ea2e9120be5d50a242f117f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_a7b3f63823ad9f21f02fea4c1eab81aad80e0871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b51942ba807f78e1e38500280d1955c3993d4314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_30b861dad942cd0506d98111a653346a03b4c2c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9e0ba525da1021f567e30faf1e6e6171e52aa178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_dd583c0de6874fa95e1d6aa45a86bfda9eac5b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b31c3c8212e9617be40d8a61f8b958bb98d4f7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_deee50ee691213c1e6ee7163486f2ab37e8177ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_d0226c75f6b18e47921138471f1a4c798899f676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_55d4bc11aaf905fe2c40912245bd4028b9a963bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\586924\StudioProjects\DPouch\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1844782199a2d2028a3bbebc9c38fe3a3387e2a2.jar" />
+    </item>
+
+</items>

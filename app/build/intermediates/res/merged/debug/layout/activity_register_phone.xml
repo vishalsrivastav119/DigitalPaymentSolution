@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <TextView
+            android:id="@+id/msisdnText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dip"
+            android:text="@string/msisdn"
+            android:textSize="18sp"
+            android:textStyle="bold|normal" />
+
+        <EditText
+            android:id="@+id/msisdn"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/msisdnText"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/gradient_spinner" 
+            android:inputType="number"
+             android:singleLine="true"/>
+
+        <TextView
+            android:id="@+id/makeText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/msisdn"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dip"
+            android:text="@string/make"
+            android:textSize="18sp"
+            android:textStyle="bold|normal" />
+
+        <EditText
+            android:id="@+id/make"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/makeText"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/gradient_spinner"
+            android:editable="false"
+             android:singleLine="true"
+             />
+
+        <TextView
+            android:id="@+id/modelText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/make"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dip"
+            android:text="@string/model"
+            android:textSize="18sp"
+            android:textStyle="bold|normal" />
+
+        <EditText
+            android:id="@+id/model"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/modelText"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/gradient_spinner"
+            android:editable="false"
+             android:singleLine="true"
+            />
+        <TextView
+            android:id="@+id/imeiText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/model"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dip"
+            android:text="@string/imei"
+            android:textSize="18sp"
+            android:textStyle="bold|normal" />
+
+        <EditText
+            android:id="@+id/imei"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/imeiText"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/gradient_spinner"
+            android:editable="false"
+             android:singleLine="true"
+            />
+        <TextView
+            android:id="@+id/sdkText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imei"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dip"
+            android:text="@string/sdk_version"
+            android:textSize="18sp"
+            android:textStyle="bold|normal" />
+
+        <EditText
+            android:id="@+id/sdkVersion"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/sdkText"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/gradient_spinner"
+            android:editable="false"
+             android:singleLine="true"
+            />
+         <TextView
+            android:id="@+id/activationText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sdkVersion"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dip"
+            android:text="@string/activation_code"
+            android:textSize="18sp"
+            android:textStyle="bold|normal" />
+
+        <EditText
+            android:id="@+id/activationCode"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/activationText"
+            android:layout_marginLeft="20dp"
+             android:singleLine="true"
+            android:background="@drawable/gradient_spinner"
+            />
+        <Button
+            android:id="@+id/registerButton"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/activationCode"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="40dip"
+            android:background="@android:color/holo_orange_light"
+            android:padding="4dp"
+            android:text="Register"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:textStyle="bold|normal" />
+    </RelativeLayout>
+    
+
+</ScrollView>

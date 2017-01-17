@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background_splash.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\background_splash.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\digital_payemnt.jpg",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\digital_payemnt.jpg"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_text_style.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\edit_text_style.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gradient_spinner_card.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\gradient_spinner_card.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\creditcardscissors.jpg",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\creditcardscissors.jpg"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gradient_spinner.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\gradient_spinner.xml"
+    }
+]

@@ -1,0 +1,162 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.dpouch.RegisterPhoneActivitySuccess" >
+
+    <TextView
+        android:id="@+id/phoneRegistrationSuccessText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/successRegustrationMsg"
+        android:textSize="22sp"
+        android:textStyle="normal|bold" />
+
+   
+
+    <TextView
+        android:id="@+id/makeTextPhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/phoneRegistrationSuccessText"
+        android:layout_marginTop="20dp"
+        android:text="@string/make"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/makePhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/phoneRegistrationSuccessText"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@id/makeTextPhoneRegisterSuccess"
+        android:text="@string/make"
+        android:textSize="18sp" />
+    <ImageView
+        android:id="@+id/phoneRegistrationSuccessImg"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="70dp"
+        android:layout_toRightOf="@id/makePhoneRegisterSuccess"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/thumps_up" />
+ 
+    <TextView
+        android:id="@+id/modelTxtPhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/makeTextPhoneRegisterSuccess"
+        android:layout_marginTop="10dp"
+        android:text="@string/model"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/modelPhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/makeTextPhoneRegisterSuccess"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/modelTxtPhoneRegisterSuccess"
+        android:text="@string/make"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/imeiTxtPhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/modelTxtPhoneRegisterSuccess"
+        android:layout_marginTop="10dp"
+        android:text="@string/imei"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/imeiPhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/modelTxtPhoneRegisterSuccess"
+        android:layout_marginLeft="43dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/imeiTxtPhoneRegisterSuccess"
+        android:text="@string/make"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/statusTxtPhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imeiTxtPhoneRegisterSuccess"
+        android:layout_marginTop="10dp"
+        android:text="@string/status"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/statusPhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imeiTxtPhoneRegisterSuccess"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/statusTxtPhoneRegisterSuccess"
+        android:textColor="@android:color/holo_green_dark"
+        android:textStyle="bold|normal"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/msisdnTxtPhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/statusTxtPhoneRegisterSuccess"
+        android:layout_marginTop="10dp"
+        android:text="Msisdn"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/msisdnPhoneRegisterSuccess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/statusTxtPhoneRegisterSuccess"
+       android:layout_marginLeft="25dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/msisdnTxtPhoneRegisterSuccess"
+        android:text="@string/make"
+         android:textSize="18sp" 
+        />
+
+    <TextView
+        android:id="@+id/wishToRegisterTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/msisdnTxtPhoneRegisterSuccess"
+        android:layout_marginTop="50dp"
+        android:text="@string/cardRegistraionLink"
+        android:textSize="25sp" 
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/holo_blue_light"/>
+
+    <Button
+        android:id="@+id/YesButtonPhoneRegisterSuccess"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/wishToRegisterTxt"
+        android:layout_marginTop="20dp"
+        android:text="Yes"
+        android:background="@android:color/holo_orange_light" />
+
+    <Button
+        android:id="@+id/NoButtonPhoneRegisterSuccess"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/wishToRegisterTxt"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@id/YesButtonPhoneRegisterSuccess"
+        android:text="No" 
+          android:background="@android:color/holo_orange_light" />
+
+</RelativeLayout>

@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:21:5-23:60
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DPouch\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.INTERNET
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:12:22-64
+uses-feature#android.hardware.nfc.hce
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:13:5-85
+	android:required
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:13:59-82
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:13:19-58
+uses-permission#android.permission.NFC
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:14:5-62
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:14:22-59
+application
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:16:5-69:19
+MERGED from [com.android.support:support-v4:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] D:\DPouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:18:9-46
+	android:theme
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.dpouch.Splash
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:22:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.dpouch.Welcome
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:31:9-45
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:31:19-42
+activity#com.example.dpouch.RegisterPhoneActivity
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:32:9-34:69
+	android:label
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:33:13-50
+activity#com.example.dpouch.RegisterPhoneActivitySuccess
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:35:9-37:86
+	android:label
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:37:13-83
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:36:13-57
+activity#com.example.dpouch.CardRegistration
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:38:9-40:74
+	android:label
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:40:13-71
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:39:13-45
+activity#com.example.dpouch.Home
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:41:9-43:50
+	android:label
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:43:13-47
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:42:13-33
+activity#com.example.dpouch.User_registration
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:44:9-46:72
+	android:label
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:46:13-69
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:45:13-46
+activity#com.example.dpouch.PaymentAcknowledgeActivity
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:47:9-48:57
+	android:label
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:47:19-61
+activity#com.example.dpouch.TouchPay
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:49:9-59:20
+	android:label
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:51:13-61
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:50:13-37
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:55:25-74
+category#android.intent.category.DEFAULT
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:56:17-76
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:56:27-73
+data
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:57:17-55
+	android:mimeType
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:57:23-52
+service#com.example.dpouch.TouchToPayService
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:60:9-68:15
+	android:exported
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:61:9-32
+	android:permission
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:61:33-89
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:60:18-51
+intent-filter#android.intent.category.DEFAULT+android.nfc.cardemulation.action.HOST_APDU_SERVICE
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:62:9-65:25
+action#android.nfc.cardemulation.action.HOST_APDU_SERVICE
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:63:13-88
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:63:21-86
+meta-data#android.nfc.cardemulation.host_apdu_service
+ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:66:9-67:43
+	android:resource
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:67:9-41
+	android:name
+		ADDED from D:\DPouch\app\src\main\AndroidManifest.xml:66:20-78

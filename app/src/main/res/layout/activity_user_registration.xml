@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/user_registration_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/title_activity_user_registration"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        android:textStyle="bold|normal" />
+
+    <ImageView
+        android:id="@+id/user_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/user_icon"
+        android:layout_below="@id/user_registration_text"
+         android:layout_centerHorizontal="true"
+         android:layout_marginTop="30dp"
+        
+         />
+
+    <EditText
+        android:id="@+id/userId"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/user_icon"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/gradient_spinner"
+        android:gravity="left"
+        android:hint="@string/user_id_text"
+        
+        android:padding="4dp"
+        android:singleLine="true"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/userRegisterButton"
+        android:layout_width="260dp"
+        android:layout_height="35dp"
+        android:layout_below="@id/userId"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="40dip"
+        android:background="@android:color/holo_orange_light"
+        android:padding="4dp"
+        android:text="Register Me "
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold|normal" />
+
+</RelativeLayout>

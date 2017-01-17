@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\menu\\welcome.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\menu\\device_registration.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\menu\\device_registration.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register_phone.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\menu\\register_phone.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user_registration.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\menu\\user_registration.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register_card_activity_success.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\menu\\register_card_activity_success.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register_phone_activity_success.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\menu\\register_phone_activity_success.xml"
+    }
+]

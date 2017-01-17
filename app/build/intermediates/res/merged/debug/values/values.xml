@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nav_drawer_icons">
+        <item>@drawable/pay</item>
+        <item>@drawable/scan</item>
+        <item>@drawable/ic_note_add_black_24dp</item>
+        <item>@drawable/ic_clear_black_24dp</item>
+        <item>@drawable/ic_content_cut_black_24dp</item>
+        <item>@drawable/ic_history_black_24dp</item>
+        <item>@drawable/ic_supervisor_account_black_24dp</item>
+    </array>
+    <string-array name="nav_drawer_items">
+        <item>Touch To pay </item>
+        <item>Scan To Pay </item>
+        <item>Add a new Card </item>
+        <item>Disable Device</item>
+        <item>Disable Card</item>
+        <item>Transaction History</item>
+        <item>Contact us </item>
+    </string-array>
+    <color name="gray">#444440</color>
+    <color name="primary">#607D8B</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="CardsuccessRegustrationMsg">Card registration successful.</string>
+    <string name="NameOnCard"> Please enter the name on card </string>
+    <string name="action_settings">Settings</string>
+    <string name="activation_code">Activation Code:</string>
+    <string name="aiddescription">aiddescription</string>
+    <string name="app_name">DPouch</string>
+    <string name="cardNumberText">Card Number :</string>
+    <string name="cardRegistraionLink">Wish to register card </string>
+    <string name="card_num_txt">Please enter card number </string>
+    <string name="cvv_text">Please enter CVV </string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="imei">IMEI:</string>
+    <string name="make">Make:</string>
+    <string name="model">Model:</string>
+    <string name="msisdn">Msisdn/MobileNumber:</string>
+    <string name="sdk_version">SDK Version:</string>
+    <string name="servicedesc">servicedesc</string>
+    <string name="status">Status:</string>
+    <string name="successRegustrationMsg">Device registration successful.</string>
+    <string name="title_Home">Home</string>
+    <string name="title_activity_device_registration">RegisterCard</string>
+    <string name="title_activity_register_phone">Register Phone</string>
+    <string name="title_activity_register_phone_activity_success">RegistrationSuccess</string>
+    <string name="title_activity_touch_pay">TouchPay</string>
+    <string name="title_activity_user_registration">User registration</string>
+    <string name="title_register_card">Provision Card </string>
+    <string name="user_id_text">Please enter the user id </string>
+    <string name="welcome_sub_txt">Dpouch enables you to make secure contactless payments. With Dpouch you can
+        create your own wallet instantly </string>
+    <string name="welcome_txt">\t\tMobile \n\t\tWallet \nTest Solution </string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="SplashTheme" parent="android:Theme.Light">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+</resources>

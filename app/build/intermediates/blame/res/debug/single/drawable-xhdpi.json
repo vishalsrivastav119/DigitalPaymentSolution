@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_content_cut_black_24dp.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-xhdpi\\ic_content_cut_black_24dp.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_launcher.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-xhdpi\\app_launcher.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_supervisor_account_black_24dp.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-xhdpi\\ic_supervisor_account_black_24dp.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_clear_black_24dp.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-xhdpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_history_black_24dp.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-xhdpi\\ic_history_black_24dp.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_note_add_black_24dp.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-xhdpi\\ic_note_add_black_24dp.png"
+    }
+]
