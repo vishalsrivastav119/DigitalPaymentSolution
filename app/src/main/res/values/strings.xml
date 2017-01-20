@@ -47,7 +47,16 @@
         <item>@drawable/ic_history_black_24dp</item>
         <item>@drawable/ic_supervisor_account_black_24dp</item>
     </array>
-
+<integer-array name="resources"
+    >
+   <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+</integer-array>
     <string name="title_activity_user_registration">User registration</string>
     <string name="user_id_text">Please enter the user id </string>
     <string name="title_activity_touch_pay">TouchPay</string>

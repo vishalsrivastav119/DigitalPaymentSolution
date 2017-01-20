@@ -20,7 +20,8 @@ import android.widget.RelativeLayout;
 
 public class Home extends Activity implements OnItemClickListener {
 
-	private String[] menuTitle; 
+	private String[] menuTitle;
+	private int [] menuResources;
 	private TypedArray menuIcons;
 	private DrawerLayout dlayout;
 	private ListView dList;
@@ -34,20 +35,20 @@ public class Home extends Activity implements OnItemClickListener {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_home);
-
+menuResources=getResources().getIntArray(R.array.resources);
 menuTitle=getResources().getStringArray(R.array.nav_drawer_items);
 menuIcons=getResources().obtainTypedArray(R.array.nav_drawer_icons);
 dlayout=(DrawerLayout) findViewById(R.id.drawer_layout);
 dList=(ListView)findViewById(R.id.left_drawer);
 mDrawerPane = (RelativeLayout) findViewById(R.id.content_frame);
 menuList=new ArrayList<MenuBean>();
-menuList.add(new MenuBean(menuTitle[0], menuIcons.getResourceId(0, -1)));
-menuList.add(new MenuBean(menuTitle[1], menuIcons.getResourceId(1, -1)));
-menuList.add(new MenuBean(menuTitle[2], menuIcons.getResourceId(2, -1)));
-menuList.add(new MenuBean(menuTitle[3], menuIcons.getResourceId(3, -1)));
-menuList.add(new MenuBean(menuTitle[4], menuIcons.getResourceId(4, -1)));
-menuList.add(new MenuBean(menuTitle[5], menuIcons.getResourceId(5, -1)));
-menuList.add(new MenuBean(menuTitle[6], menuIcons.getResourceId(6, -1)));
+menuList.add(new MenuBean(menuTitle[0], menuIcons.getResourceId(menuResources[0], -1)));
+menuList.add(new MenuBean(menuTitle[1], menuIcons.getResourceId(menuResources[1], -1)));
+menuList.add(new MenuBean(menuTitle[2], menuIcons.getResourceId(menuResources[2], -1)));
+menuList.add(new MenuBean(menuTitle[3], menuIcons.getResourceId(menuResources[3], -1)));
+menuList.add(new MenuBean(menuTitle[4], menuIcons.getResourceId(menuResources[4], -1)));
+menuList.add(new MenuBean(menuTitle[5], menuIcons.getResourceId(menuResources[5], -1)));
+menuList.add(new MenuBean(menuTitle[6], menuIcons.getResourceId(menuResources[6], -1)));
 menuIcons.recycle();
 adapter=new NavigationDrawerlistAdapter(getApplicationContext(),menuList);
 dList.setAdapter(adapter);
