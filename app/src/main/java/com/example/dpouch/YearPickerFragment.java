@@ -8,18 +8,22 @@ import android.content.res.Resources;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.DatePicker;
+import android.widget.EditText;
 import android.widget.TextView;
 
 public class YearPickerFragment extends DialogFragment implements OnDateSetListener {
 	
 	TextView spinnertextView;
-	
-	
 
-	public YearPickerFragment(TextView spinnerText) {
-		
-		spinnertextView=spinnerText;
+	public YearPickerFragment()
+	{
+
 	}
+
+//	public YearPickerFragment(TextView spinnerText) {
+//
+//		spinnertextView=spinnerText;
+//	}
 
 	public Dialog onCreateDialog(Bundle savedInstanceState) {
 		
@@ -39,9 +43,16 @@ public class YearPickerFragment extends DialogFragment implements OnDateSetListe
 
 	@Override
 	public void onDateSet(DatePicker view, int year, int monthOfYear, int dayOfMonth) {
-		
+		Bundle bundle = this.getArguments();
+
 		StringBuilder st =new StringBuilder(year);
 		st.append(year);
+		if(bundle!=null)
+		{
+
+			int  spinnerYear=bundle.getInt("spinnerYear");
+			spinnertextView=(TextView) getActivity().findViewById(spinnerYear);
+		}
 		spinnertextView.setText(st);
 		
 		

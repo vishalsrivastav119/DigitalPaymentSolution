@@ -9,18 +9,22 @@ import android.content.res.Resources;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.DatePicker;
+import android.widget.EditText;
 import android.widget.TextView;
 
 public class MonthPickerFragment extends DialogFragment implements OnDateSetListener {
 	
 	TextView spinnertextView;
 	
-	
+	public MonthPickerFragment()
+	{
 
-	public MonthPickerFragment(TextView spinnerText) {
-		
-		spinnertextView=spinnerText;
 	}
+
+//	public MonthPickerFragment(TextView spinnerText) {
+//
+//		spinnertextView=spinnerText;
+//	}
 
 	public Dialog onCreateDialog(Bundle savedInstanceState) {
 		
@@ -39,7 +43,14 @@ public class MonthPickerFragment extends DialogFragment implements OnDateSetList
 
 	@Override
 	public void onDateSet(DatePicker view, int year, int monthOfYear, int dayOfMonth) {
-		
+		Bundle bundle = this.getArguments();
+
+		if(bundle!=null)
+		{
+			int  spinnertextMon=bundle.getInt("spinnerMonth");
+			spinnertextView=(TextView) getActivity().findViewById(spinnertextMon);
+		}
+
 		String monthName = new DateFormatSymbols().getMonths()[monthOfYear];
 		spinnertextView.setText(monthName);
 		

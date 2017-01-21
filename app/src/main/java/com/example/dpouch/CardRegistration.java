@@ -51,20 +51,25 @@ ProgressDialog progressDailog;
 	}
 	@Override
 	public void onClick(View v) {
+		Bundle args=new Bundle();
 		cardNumberString=cardNumber.getText().toString();
 		cvvString=cvv.getText().toString();
 		System.out.println("Card number"+cardNumberString);
 		switch (v.getId()) {
 		case R.id.spinnerPickUpMonth:
 			FragmentTransaction ft=getFragmentManager().beginTransaction();
-			DialogFragment monthFragment=new MonthPickerFragment((TextView)v.findViewById(R.id.spinnerPickUpMonth));
+			DialogFragment monthFragment=new MonthPickerFragment();
+			args.putInt("spinnerMonth",(R.id.spinnerPickUpMonth));
+			monthFragment.setArguments(args);
 			monthFragment.show(ft, "Pick Expiry Month");
 			
 		break;
 		
 		case R.id.spinnerPickUpYear:
 			FragmentTransaction fy=getFragmentManager().beginTransaction();
-			DialogFragment yearFragment=new YearPickerFragment((TextView)v.findViewById(R.id.spinnerPickUpYear));
+			DialogFragment yearFragment=new YearPickerFragment();
+			args.putInt("spinnerYear",R.id.spinnerPickUpYear);
+			yearFragment.setArguments(args);
 			yearFragment.show(fy, "Pick Expiry year");
 			break;
 		case R.id.cardRegisterButton:
