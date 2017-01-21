@@ -1,7 +1,7 @@
 package com.example.dpouch;
 
 /**
- * Created by 586924 -Ajitesh on 10/23/2016 .
+ * Created by 586924 -Ajitesh SIngh on 10/23/2016 .
  */
 
 public class CardDetailsBean {
