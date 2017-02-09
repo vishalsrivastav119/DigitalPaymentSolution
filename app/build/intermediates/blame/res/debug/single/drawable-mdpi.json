@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_supervisor_account_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_supervisor_account_black_24dp.png"
+    },
+    {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clear_black_24dp.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_clear_black_24dp.png"
     },
@@ -8,8 +12,20 @@
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\user_icon.png"
     },
     {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clear_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_clear_black_24dp.png"
+    },
+    {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_history_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_history_black_24dp.png"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_supervisor_account_black_24dp.png",
@@ -20,8 +36,24 @@
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_content_cut_black_24dp.png"
     },
     {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\user_icon.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\user_icon.png"
+    },
+    {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_drop_down_circle_black_24dp.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_drop_down_circle_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_content_cut_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_content_cut_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_note_add_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_note_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_launcher.png",
@@ -36,7 +68,15 @@
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_note_add_black_24dp.png"
     },
     {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_drop_down_circle_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_drop_down_circle_black_24dp.png"
+    },
+    {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_history_black_24dp.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\ic_history_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_launcher.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-mdpi\\app_launcher.png"
     }
 ]

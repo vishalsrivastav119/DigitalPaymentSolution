@@ -1,31 +1,27 @@
 [
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\thumps_up.png",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\thumps_up.png"
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\user_icon.png"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_supervisor_account_black_24dp.png",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_supervisor_account_black_24dp.png"
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\visa.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\visa.png"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_history_black_24dp.png",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_history_black_24dp.png"
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pay.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\pay.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_launcher.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\app_launcher.png"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_clear_black_24dp.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_clear_black_24dp.png"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\visa_icon.png",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\visa_icon.png"
-    },
-    {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_icon.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\user_icon.png"
-    },
-    {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_note_add_black_24dp.png",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_note_add_black_24dp.png"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_content_cut_black_24dp.png",
@@ -36,31 +32,99 @@
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan.png",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\visa_icon.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\visa_icon.png"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pay.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\pay.png"
     },
     {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\visa.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\visa.png"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete.png",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\thumps_up.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\thumps_up.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_supervisor_account_black_24dp.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_supervisor_account_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_note_add_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_note_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\visa_icon.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\visa_icon.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_history_black_24dp.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_history_black_24dp.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_note_add_black_24dp.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_note_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan.png",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_clear_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_clear_black_24dp.png"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_launcher.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\app_launcher.png"
     },
     {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mastercard.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\mastercard.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_content_cut_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_content_cut_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\thumps_up.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\thumps_up.png"
+    },
+    {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mastercard.png",
         "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\mastercard.png"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_supervisor_account_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_supervisor_account_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_history_black_24dp.png",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\drawable-hdpi\\ic_history_black_24dp.png"
     }
 ]

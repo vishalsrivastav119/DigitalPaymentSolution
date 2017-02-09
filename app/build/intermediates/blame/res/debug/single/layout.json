@@ -1,23 +1,79 @@
 [
     {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_layout.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\swipe_layout.xml"
+    },
+    {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\disable_card_fragment.xml",
         "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\disable_card_fragment.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\disable_device_fragment.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\disable_device_fragment.xml"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_layout.xml",
         "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\swipe_layout.xml"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_card_fragment.xml",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\add_card_fragment.xml"
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_acknowledge.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\activity_payment_acknowledge.xml"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transaction_row_item.xml",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\transaction_row_item.xml"
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_card_fragment.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\add_card_fragment.xml"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\disable_device_fragment.xml",
         "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\disable_device_fragment.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_touch_pay.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\activity_touch_pay.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_row_item_layout.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\menu_row_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_registration.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\activity_card_registration.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_row_item_layout.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\menu_row_item_layout.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\disable_card_fragment.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\disable_card_fragment.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_phone_activity_success.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\activity_register_phone_activity_success.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_item.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\list_row_item.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transaction_row_item.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\transaction_row_item.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_card_fragment.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\add_card_fragment.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_registration.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\activity_card_registration.xml"
+    },
+    {
+        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transaction_row_item.xml",
+        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\transaction_row_item.xml"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_acknowledge.xml",
@@ -28,8 +84,16 @@
         "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\activity_register_phone_activity_success.xml"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_row_item_layout.xml",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\menu_row_item_layout.xml"
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_registration.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\activity_user_registration.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transaction_history_fragment.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\transaction_history_fragment.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\activity_welcome.xml"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_touch_pay.xml",
@@ -44,20 +108,24 @@
         "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\activity_user_registration.xml"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_registration.xml",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\activity_card_registration.xml"
-    },
-    {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
         "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\activity_welcome.xml"
     },
     {
-        "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragement.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\home_fragement.xml"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragement.xml",
         "source": "D:\\DPouch\\app\\src\\main\\res\\layout\\home_fragement.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_phone.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\activity_register_phone.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transaction_history_fragment.xml",

@@ -18,6 +18,15 @@
         <item>Transaction History</item>
         <item>Contact us </item>
     </string-array>
+    <integer-array name="resources">
+   <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+</integer-array>
     <color name="gray">#444440</color>
     <color name="primary">#607D8B</color>
     <dimen name="activity_horizontal_margin">16dp</dimen>

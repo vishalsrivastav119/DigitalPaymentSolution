@@ -1,5 +1,6 @@
 int array nav_drawer_icons 0x7f070000
 int array nav_drawer_items 0x7f070001
+int array resources 0x7f070002
 int color gray 0x7f080000
 int color primary 0x7f080001
 int dimen activity_horizontal_margin 0x7f060000

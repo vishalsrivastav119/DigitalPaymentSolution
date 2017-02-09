@@ -2,5 +2,9 @@
     {
         "merged": "D:\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\xml\\aid_list.xml",
         "source": "D:\\DPouch\\app\\src\\main\\res\\xml\\aid_list.xml"
+    },
+    {
+        "merged": "D:\\GIT\\DPouch\\app\\build\\intermediates\\res\\merged\\debug\\xml\\aid_list.xml",
+        "source": "D:\\GIT\\DPouch\\app\\src\\main\\res\\xml\\aid_list.xml"
     }
 ]

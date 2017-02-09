@@ -11,6 +11,7 @@ public final class R {
     public static final class array {
         public static final int nav_drawer_icons=0x7f070000;
         public static final int nav_drawer_items=0x7f070001;
+        public static final int resources=0x7f070002;
     }
     public static final class attr {
     }

@@ -24,9 +24,14 @@ public class CardDetailsBean {
 
     public String getCardNumber() {
         return cardNumber;
+
+     //edited on 02/09 
+
     }
 
-    public int getCardImg() {
+    
+
+     public int getCardImg() {
         return cardImg;
     }
 
@@ -44,6 +49,7 @@ public class CardDetailsBean {
 
     public void setCardNumber(String cardNumber) {
         this.cardNumber = cardNumber;
+        //modified on 02/09
     }
 
     public String getCardType() {
