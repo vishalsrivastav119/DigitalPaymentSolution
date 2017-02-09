@@ -139,7 +139,7 @@ protected void onPreExecute() {
 		progressDailog.setMessage("Registering Card  ");
 		progressDailog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
 		progressDailog.setIndeterminate(true);
-		progressDailog.setCancelable(false);
+		  progressDailog.setCancelable(false);
 		progressDailog.show();
 	
 }
