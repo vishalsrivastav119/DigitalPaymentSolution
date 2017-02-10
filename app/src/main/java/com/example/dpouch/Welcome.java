@@ -21,7 +21,8 @@ public class Welcome extends Activity implements OnClickListener {
 		welcome_register.setOnClickListener(this);
 	}
 	@Override
-	public void onClick(View v) {
+	public void onClick(View v) 
+        {
 		Intent intent=new Intent(this,RegisterPhoneActivity.class);
 		startActivity(intent);
 		
