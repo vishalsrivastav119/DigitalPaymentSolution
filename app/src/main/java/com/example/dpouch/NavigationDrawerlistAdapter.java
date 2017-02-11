@@ -47,7 +47,9 @@ public class NavigationDrawerlistAdapter extends BaseAdapter {
 		if (convertView==null) {
 			LayoutInflater mInflater = (LayoutInflater)
 	                context.getSystemService(Activity.LAYOUT_INFLATER_SERVICE);
+
 		view  =mInflater.inflate(R.layout.menu_row_item_layout, parent,false);
+
 		}
 		else
 		{
