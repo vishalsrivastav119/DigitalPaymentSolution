@@ -43,7 +43,8 @@ public class CardDetailsBean {
         return amount;
     }
 
-    public void setAmount(int amount) {
+    public void setAmount(int amount) 
+    {
         this.amount = amount;
     }
 
