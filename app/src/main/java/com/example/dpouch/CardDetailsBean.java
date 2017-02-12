@@ -16,7 +16,8 @@ public class CardDetailsBean {
         return timestmp;
     }
 
-    public void setTimestmp(String timestmp) {
+    public void setTimestmp(String timestmp) 
+    {
         this.timestmp = timestmp;
     }
 
