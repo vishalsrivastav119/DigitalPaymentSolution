@@ -39,7 +39,8 @@ public class AddCardFragment extends Fragment implements OnClickListener {
 	ProgressDialog progressDailog;
 
 	@Override
-	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) 
+               {
 		View view=inflater.inflate(R.layout.add_card_fragment, container,false);
 		expiryMonth=(TextView) view.findViewById(R.id.spinnerPickUpMonth);
 		expiryYear=(TextView) view.findViewById(R.id.spinnerPickUpYear);

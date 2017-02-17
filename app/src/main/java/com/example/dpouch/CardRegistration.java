@@ -35,7 +35,8 @@ TextView expiryMonth,expiryYear;
 Button cardReg;
 ProgressDialog progressDailog;
 	@Override
-	protected void onCreate(Bundle savedInstanceState) {
+	protected void onCreate(Bundle savedInstanceState)
+        {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_card_registration);
 		expiryMonth=(TextView) findViewById(R.id.spinnerPickUpMonth);
@@ -47,8 +48,8 @@ ProgressDialog progressDailog;
 		expiryMonth.setOnClickListener(this);
 		expiryYear.setOnClickListener(this);
 		cardReg.setOnClickListener(this);
-		
 	}
+
 	@Override
 	public void onClick(View v) {
 		Bundle args=new Bundle();
