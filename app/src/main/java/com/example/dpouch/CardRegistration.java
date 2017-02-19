@@ -134,7 +134,8 @@ ProgressDialog progressDailog;
 	private class BackgroundTask extends AsyncTask<String, Void, String>
 	{
 @Override
-protected void onPreExecute() {
+protected void onPreExecute() 
+{
 	// TODO Auto-generated method stub
 	super.onPreExecute();
 	   progressDailog=new ProgressDialog(CardRegistration.this);
