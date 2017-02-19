@@ -50,7 +50,8 @@ ProgressDialog progressDailog;
 	}
 
 	@Override
-	public void onClick(View v) {
+	public void onClick(View v) 
+             {
 		Bundle args=new Bundle();
 		cardNumberString=cardNumber.getText().toString();
 		cvvString=cvv.getText().toString();
