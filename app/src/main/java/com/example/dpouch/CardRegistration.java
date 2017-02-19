@@ -56,7 +56,8 @@ ProgressDialog progressDailog;
 		cardNumberString=cardNumber.getText().toString();
 		cvvString=cvv.getText().toString();
 		System.out.println("Card number"+cardNumberString);
-		switch (v.getId()) {
+		switch (v.getId()) 
+              {
 		case R.id.spinnerPickUpMonth:
 			FragmentTransaction ft=getFragmentManager().beginTransaction();
 			DialogFragment monthFragment=new MonthPickerFragment();
